@@ -1,5 +1,5 @@
 fullstack
-=========
+==========================
 
 ##full stack developer notes
 ###code skills
