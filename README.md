@@ -19,7 +19,9 @@ lua
 
 javascript
 
+go
 
+ruby
 
 ###ops skills
 
