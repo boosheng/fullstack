@@ -23,6 +23,7 @@ go
 
 ruby
 
+shell
 ###ops skills
 
 linux/unix
@@ -90,7 +91,14 @@ bee-framework
 xUtils
 cocos2d-x
 
-data
+db
+mysql
+redis
+mongodb
+oracle
+
+bigdata
 hadoop
 mahout
 lucene
+Elasticsearch
