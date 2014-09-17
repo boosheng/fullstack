@@ -49,6 +49,8 @@ vmware
 
 shell
 
+pocketsphinx
+
 design skills
 
 photoshop
