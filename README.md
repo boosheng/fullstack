@@ -7,6 +7,8 @@ c/c++
 
 JAVA
 
+c#
+
 Objective-c
 
 SWIFT
@@ -20,8 +22,6 @@ lua
 javascript
 
 go
-
-ruby
 
 shell
 
